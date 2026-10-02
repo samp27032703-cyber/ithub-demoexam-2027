@@ -17,7 +17,7 @@ docker run -p=5431:5432 -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=demo --name
 3. 
 
 ```bash
-npm run db:push
+nnpm run db:pushnpm run db:pushpm run db:push
 ```
 
 4. 
